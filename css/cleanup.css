@@ -6,6 +6,6 @@ body #wall #tag-2 {
   display: none;
 }
 
-body > #tag-3.slick {
+html > #tag-3.slick {
   display: none;
 }
