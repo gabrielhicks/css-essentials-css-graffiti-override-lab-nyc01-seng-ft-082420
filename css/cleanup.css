@@ -6,6 +6,6 @@ body #wall #tag-2 {
   display: none;
 }
 
-html ~ body + #wall #tag-3 {
+html ~ body #wall #tag-3 {
   display: none;
 }
